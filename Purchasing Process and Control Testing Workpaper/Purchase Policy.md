@@ -9,7 +9,7 @@ When an employee would like to make an external purchase from a vendor, the empl
 
 Once the required fields within the Purchase Request Portal are populated, the requestor will click “submit” within the portal. This triggers the request to be automatically routed (via an Organizational Chart embedded within the Portal) to the employee’s direct supervisor. The supervisor receives an automated email that they’ve been assigned a new purchase request for their review/approval.
 
-Per internal policy, any purchases made by managers or above must be pre-approved if the requested purchase totals $10,000 or more. For senior associates and associates, purchases of $5,000 or more must be approved by their direct supervisors.
+__Per internal policy, any purchases made by managers or above must be pre-approved if the requested purchase totals $10,000 or more. For senior associates and associates, purchases of $5,000 or more must be approved by their direct supervisors.__
 
 After the direct supervisor has reviewed the request, they can either click “approve request” or “deny request” within the system. Once an option is selected, the direct supervisor will select “submit”, which will automatically generate a message to the purchase requestor to indicate whether the request has been approved or denied by the direct supervisor.
 
