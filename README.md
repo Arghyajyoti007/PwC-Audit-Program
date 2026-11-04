@@ -57,3 +57,11 @@ PwC-Audit-Program/
 ├── Task_3: Purchasing Process Walkthrough/
 ├── Task_4: Purchasing Process Flow and Risk Control Matrix/
 └── README.md
+```
+
+---
+
+## 📜 Certificate of Completion
+*A verified certificate of completion is awarded upon successful fulfillment of all program modules, validating foundational knowledge of audit workflows, risk evaluation, and professional practices at PwC US.*
+
+<img width="787" height="558" alt="image" src="https://github.com/user-attachments/assets/f396e27f-a287-4cf7-9b27-3ae494bfa173" />
